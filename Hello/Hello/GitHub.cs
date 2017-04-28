@@ -9,5 +9,11 @@ namespace Hello
     class GitHub
     {
         public int Id { get; set; }
+        public GitHub()
+        {
+
+        }
+
+        
     }
 }
