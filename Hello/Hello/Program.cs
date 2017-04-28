@@ -10,7 +10,8 @@ namespace Hello
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Programa inicial");
+            Console.WriteLine("Programa inicial pc1");
+            Console.WriteLine("primer modificacion al proyecto desde la pc2");
         }
     }
 }
